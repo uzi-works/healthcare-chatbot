@@ -1,0 +1,9 @@
+*.bin
+*.pt
+*.pth
+*.pkl
+*.safetensors
+__pycache__/
+backend/chatbot_model/
+backend/emotion_model/
+backend/medication_model/
