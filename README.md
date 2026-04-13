@@ -74,7 +74,7 @@ healthcare-chatbot/
 
 ### 1️ Clone the repository
 
-git clone https://github.com/yourusername/healthcare-chatbot.git
+git clone https://github.com/uzi-works/healthcare-chatbot
 cd healthcare-chatbot
 
 ### 2️ Install dependencies
