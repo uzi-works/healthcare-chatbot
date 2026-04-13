@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Virtual Health Assistant</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="chat-wrapper">
+    <div class="chat-card fade-in">
+      <h1>Hi, I’m your Virtual Health Assistant</h1>
+      <p class="subtitle">I'm here to help you feel better. How are you feeling today?</p>
+
+      <div id="chat-log" class="chat-log"></div>
+
+      <div class="input-wrapper">
+        <div class="input-container">
+          <input type="text" id="user-input" placeholder="Type your message..." />
+          <div class="button-group">
+            <button id="send-button" onclick="sendMessage()">Send</button>
+            <button id="clear-button">Clear</button>
+            <button id="stop-button">Stop</button>
+          </div>
+        </div>
+      </div>
+
+      <div id="popup" class="popup">
+        <p>🎉 Chat ended! Start a new one?</p>
+        <button id="new-chat">Start New Chat</button>
+      </div>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>

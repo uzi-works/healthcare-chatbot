@@ -1,0 +1,57 @@
+body {
+  background-color: #E0F7FA;
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.main-container {
+  background: linear-gradient(to bottom right, #ffffff, #e3f2fd);
+  border-radius: 25px;
+  padding: 50px 30px;
+  max-width: 650px;
+  margin: 60px auto;
+  box-shadow: 0 6px 30px rgba(0,0,0,0.1);
+  text-align: center;
+  animation: fadeIn 1s ease-in-out;
+}
+
+.avatar {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+}
+
+.main-container h1 {
+  font-size: 36px;
+  color: #00796B;
+  margin-bottom: 10px;
+}
+
+.main-container p {
+  font-size: 20px;
+  color: #333;
+  margin-bottom: 40px;
+}
+
+.chat-button {
+  background-color: #00796B;
+  color: white;
+  border: none;
+  padding: 12px 30px;
+  font-size: 18px;
+  border-radius: 30px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.chat-button:hover {
+  background-color: #004D40;
+}
+
+@keyframes fadeIn {
+  0% { opacity: 0; transform: translateY(-20px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
