@@ -1,18 +1,18 @@
-# 🏥 AI-Powered Healthcare Chatbot
+#  AI-Powered Healthcare Chatbot
 
-## 📌 Overview
+##  Overview
 
 The AI-Powered Healthcare Chatbot is an intelligent system designed to assist users by analyzing their symptoms and emotions to provide relevant medication recommendations and responses. The system integrates Natural Language Processing (NLP), Machine Learning (ML), and conversational AI to deliver a smart healthcare assistance experience.
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 Patients often struggle to identify appropriate medication or understand their symptoms without consulting a doctor. Additionally, emotional state plays a crucial role in health, which is often ignored by traditional systems.
 
 ---
 
-## 💡 Solution
+##  Solution
 
 This project combines:
 
@@ -24,18 +24,18 @@ to provide a more personalized and intelligent healthcare assistant.
 
 ---
 
-## 🧠 Key Features
+##  Key Features
 
-* 🤖 Chatbot-based interaction
-* 😊 Emotion detection from user input
-* 💊 Medication recommendation system
-* 🔄 Rule-based fallback mechanism
-* 📊 Machine Learning-based predictions
-* 🧾 Cleaned and preprocessed medical dataset
+*  Chatbot-based interaction
+*  Emotion detection from user input
+*  Medication recommendation system
+*  Rule-based fallback mechanism
+*  Machine Learning-based predictions
+*  Cleaned and preprocessed medical dataset
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Programming Language:** Python
 * **Machine Learning:** Scikit-learn, XGBoost
@@ -45,7 +45,7 @@ to provide a more personalized and intelligent healthcare assistant.
 
 ---
 
-## ⚙️ System Architecture
+##  System Architecture
 
 1. User inputs symptoms or message
 2. Emotion Detection Model analyzes sentiment
@@ -55,7 +55,7 @@ to provide a more personalized and intelligent healthcare assistant.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 healthcare-chatbot/
 │
@@ -70,24 +70,24 @@ healthcare-chatbot/
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
-### 1️⃣ Clone the repository
+### 1️ Clone the repository
 
 git clone https://github.com/yourusername/healthcare-chatbot.git
 cd healthcare-chatbot
 
-### 2️⃣ Install dependencies
+### 2️ Install dependencies
 
 pip install -r requirements.txt
 
-### 3️⃣ Run the application
+### 3️ Run the application
 
 python app.py
 
 ---
 
-## 📊 Dataset Details
+##  Dataset Details
 
 * Source: UCI Health Repository
 * Total Instances: 161,212
@@ -98,14 +98,14 @@ python app.py
 
 ---
 
-## 📈 Current Performance
+##  Current Performance
 
 * Model Accuracy: ~50% (ongoing improvements)
 * Scope for improvement with better dataset and tuning
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Improve model accuracy using advanced deep learning models
 * Deploy as a web application
@@ -115,11 +115,6 @@ python app.py
 
 ---
 
-## 📸 Screenshots (Add Later)
-
-*Add screenshots or demo images here*
-
----
 
 ## 🤝 Contributing
 
