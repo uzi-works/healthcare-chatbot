@@ -116,26 +116,26 @@ python app.py
 ---
 
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Feel free to fork this repository and submit a pull request.
 
 ---
 
-## 📜 License
+##  License
 
 This project is open-source and available under the MIT License.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Uzair Sabir**
 B.Tech CSE | AI Enthusiast
 
 ---
 
-## ⭐ Acknowledgements
+##  Acknowledgements
 
 * UCI Machine Learning Repository
 * Open-source NLP models and libraries
