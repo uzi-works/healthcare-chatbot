@@ -115,6 +115,15 @@ python app.py
 
 ---
 
+##  Screenshots
+
+<img width="888" height="562" alt="image" src="https://github.com/user-attachments/assets/606def8b-008e-49ba-97a3-b8ec469bb670" />
+<img width="831" height="797" alt="Screenshot 2026-04-13 200320" src="https://github.com/user-attachments/assets/82f691e0-0c4c-418b-8cba-d6baedfe2c8c" />
+<img width="750" height="718" alt="Screenshot 2026-04-13 200344" src="https://github.com/user-attachments/assets/6d56a595-f074-4941-95f9-01441cda25f7" />
+<img width="752" height="719" alt="Screenshot 2026-04-13 200350" src="https://github.com/user-attachments/assets/a28b3c45-0428-46ec-a7e4-649573334ade" />
+
+---
+
 
 ##  Contributing
 
