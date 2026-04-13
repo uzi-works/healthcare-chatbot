@@ -141,6 +141,8 @@ This project is open-source and available under the MIT License.
 
 **Uzair Sabir**
 B.Tech CSE | AI Enthusiast
+**Atmaja Chakraborty**
+B.Tech CSE | AI Enthusiast
 
 ---
 
